@@ -1,5 +1,6 @@
 # Fashion_Recommendation_System
-# TQDM Tracking Conv-AE Model Training
+TQDM Tracking Conv-AE Model Training
+
 nb_epochs = 100
 batch_size = 64
 
