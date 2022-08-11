@@ -25,3 +25,9 @@ end = time.time()
 - 사용자가 인풋 사진을 넣으면 그에 따른 코디를 추천해준다.
 - Local에서 개발하고 Git에 Push하는 개발방식으로 개발 진행중이다.
 
+우리는 짱이댜!!!  
+진짜루 짱이댜!!!  
+Absolutly VEEEEEERY GOOOODD 
+
+
+![image](https://github.com/J-PARK11/Computer-VISION/blob/master/Image%20Based%20Fashion%20Recommendation%20System/figure/ConvAE0810.png)
